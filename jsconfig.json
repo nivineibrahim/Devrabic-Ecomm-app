@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "baseUrl": "src"
+    },
+    "include": ["src"]
+  }
+//kerml l import 
+//bektob msln import test from "components/test bala ma ektob import test from "../../component/test
